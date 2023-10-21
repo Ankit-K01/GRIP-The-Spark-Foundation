@@ -14,7 +14,7 @@ Unsupervised Machine Learning Prediction
 - Dataset: https://bit.ly/3kXTdox
 
 Task 3
-Exploratory Data Analysis
+Exploratory Data Analysis - Retail
 - Conduct an 'Exploratory Data Analysis' on the 'SampleSuperstore' dataset.
 - As a business manager, identify areas for improvement to increase profitability.
 - What business problems can be identified through data exploration?
